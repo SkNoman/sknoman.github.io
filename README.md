@@ -1,2 +1,0 @@
-# sknoman.github.io
- resume
